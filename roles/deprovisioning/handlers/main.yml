@@ -1,0 +1,6 @@
+---
+
+- name: Example handler
+  service:
+    name: service
+    state: restart

@@ -1,0 +1,9 @@
+---
+
+- hosts: localhost
+
+  tasks:
+
+    - name: Let's use a role in this collection!
+      include_role:
+        

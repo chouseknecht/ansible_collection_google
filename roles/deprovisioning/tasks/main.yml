@@ -1,0 +1,5 @@
+---
+
+- name: Example playbook to show a secondary role in a collection
+  example:
+    foo: bar    
