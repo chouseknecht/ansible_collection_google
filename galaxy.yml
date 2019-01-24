@@ -1,9 +1,9 @@
 namespace: "ansible_collection"
 name: "google"
-authours:
+authors:
   - "Alex Smith <asmith@google.com>"
 version: "0.1.0"
-license: "BSD"
+license: "0BSD"
 tags:
   - certified
   - cloud
